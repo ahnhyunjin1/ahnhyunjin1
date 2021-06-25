@@ -28,5 +28,5 @@
 <h3 align="left">Contact</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01020813765@gmail.com)](mailto:a01020813765@gmail.com)
-![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/aaaahzin/)
+[![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/aaaahzin/)](https://instagram.com/aaaahzin/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006477102519)](https://www.facebook.com/profile.php?id=100006477102519)
