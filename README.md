@@ -23,6 +23,7 @@
 <a href="https://discord.gg/ahnhyunjin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahnhyunjin" height="50" width="60" /></a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnhyunjin1&theme=github_dark&show_icons=true)
 
 
 <h3 align="left">Contact</h3>
