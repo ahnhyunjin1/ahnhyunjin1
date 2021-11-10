@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=250&text=AHN%HYUN%JIN&animation=blinking&desc=Frontend%20Developer&descAlign=60&descAlignY=20&rotate=-5)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=250&text=AHN%HYUN%JIN&animation=blinking&desc=Frontend%20Developer&descAlign=60&descAlignY=70&rotate=-5)
 
 
 
