@@ -43,4 +43,4 @@
 </h3>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=transparent&color=auto&text=Thanks%20for%20watching&animation=twinkling&fontSize=50&fontAlign=70&fontColor=3399ff)
- )
+ 
