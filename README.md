@@ -6,16 +6,16 @@
 
 
 
-<p align="center">
+
   <h3 align="center">A passionate frontend developer from REPUBLIC OF KOREA</h3>
+  
+<p align="center"> - 🔭 I’m currently working on DAEJEON UNIV. </p>
 
-<p align="center"> - 🔭 I’m currently working on [DAEJEON UNIV.] <https://www.dju.ac.kr/eice/main.do> </p>
+<p align="center"> - 🌱 I’m currently learning <span style="color:blue"> HTML , CSS , JAVAScript </span> </p>
 
-　　　　　　　　　　　　　　　- 🌱 I’m currently learning **HTML , CSS , JAVAScript**
+<p align="center"> - 🤝 I’m looking for help with Codeit </p>
 
-　　　　　　　　　　　　　　　- 🤝 I’m looking for help with **HTML**
-
-　　　　　　　　　　　　　　　- 📫 How to reach me **a01020813765@gmail.com**
+<p align="center"> - 📫 How to reach me a01020813765@gmail.com </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
