@@ -3,13 +3,13 @@
 <p align="center">
   <h3 align="center">A passionate frontend developer from REPUBLIC OF KOREA</h3>
 
-- 🔭 I’m currently working on [DAEJEON UNIV.](https://www.dju.ac.kr/eice/main.do)
+　　　　　　　　　　　　　　　- 🔭 I’m currently working on [DAEJEON UNIV.](https://www.dju.ac.kr/eice/main.do)
 
-- 🌱 I’m currently learning **HTML , CSS , JAVAScript**
+　　　　　　　　　　　　　　　- 🌱 I’m currently learning **HTML , CSS , JAVAScript**
 
-- 🤝 I’m looking for help with **HTML**
+　　　　　　　　　　　　　　　- 🤝 I’m looking for help with **HTML**
 
-- 📫 How to reach me **a01020813765@gmail.com**
+　　　　　　　　　　　　　　　- 📫 How to reach me **a01020813765@gmail.com**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -25,10 +25,11 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnhyunjin1&theme=github_dark&show_icons=true)
+　　　　　　　　　　　　　　　![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnhyunjin1&theme=github_dark&show_icons=true)
 
 
-<h3 align="center">Contact
+<h3 align="center">Contact 
+  <p></p>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01020813765@gmail.com)](mailto:a01020813765@gmail.com)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hyun.nij/)](https://instagram.com/hyun.nij/)
