@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm 안 현 진</h1>
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=250&text=AHN%HYUN%JIN&animation=blinking&desc=Frontend%20Developer&descAlign=60&descAlignY=20&rotate=-5)
+
+
+
+
+
+
 
 <p align="center">
   <h3 align="center">A passionate frontend developer from REPUBLIC OF KOREA</h3>
