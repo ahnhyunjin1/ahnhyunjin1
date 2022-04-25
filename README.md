@@ -2,20 +2,9 @@
 
 
 
-
-
-
-
-
-  <h3 align="center">A passionate frontend developer from REPUBLIC OF KOREA</h3>
-  
-<p align="center"> - 🔭 I’m currently working on CIC community . </p>
-
-<p align="center"> - 🌱 I’m currently learning <span style="color:blue"> React, NODE.js , typescript </span> </p>
-
-<p align="center"> - 🤝 I’m looking for help with Stactoverflow / React DOM </p>
-
-<p align="center"> - 📫 How to reach me a01020813765@gmail.com </p>
+<hr/>
+<h2 align='center'> DEVELOPE </h2>
+<hr/>
 
 
 <h3 align="center">Languages and Tools:</h3>
