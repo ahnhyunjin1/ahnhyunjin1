@@ -1,3 +1,5 @@
+<div align='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=250&text=AHN%HYUN%JIN&animation=blinking&desc=Frontend%20Developer&descAlign=60&descAlignY=70&rotate=-5)
 
 
@@ -28,16 +30,18 @@
 </p>
 
 
-　　　　　　　　　　　　　　![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnhyunjin1&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnhyunjin1&theme=compact&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnhyunjin1&layout=compact&theme=compact)
 
 
 <h3 align="center">Contact 
   <p></p>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01020813765@gmail.com)](mailto:a01020813765@gmail.com)
-[![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hyun.nij/)](https://instagram.com/hyun.nij/)
+[![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hyunzzz1n/)](https://instagram.com/hyunzzz1n/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006477102519)](https://www.facebook.com/profile.php?id=100006477102519)
 </h3>
+</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=transparent&color=auto&text=Thanks%20for%20watching&animation=twinkling&fontSize=50&fontAlign=70&fontColor=ffffff)
  
